@@ -33,8 +33,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[](https://github.com/SpecTruNMAG/Product-preview-card-component.com)
-- Live Site URL: [](https://spectrunmag.github.io/Product-preview-card-component/)
+- Solution URL:[https://github.com/SpecTruNMAG/Product-preview-card-component.com]
+- Live Site URL: [https://spectrunmag.github.io/Product-preview-card-component/]
 
 ## My process
 
