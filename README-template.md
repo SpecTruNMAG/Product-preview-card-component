@@ -33,7 +33,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL:[https://github.com/SpecTruNMAG/Product-preview-card-component.com]
+- Solution URL:[https://github.com/SpecTruNMAG/Product-preview-card-component]
 - Live Site URL: [https://spectrunmag.github.io/Product-preview-card-component/]
 
 ## My process
